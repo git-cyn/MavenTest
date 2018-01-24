@@ -7,6 +7,6 @@ package test0;
 public class App0
 {
     public int getInt() {
-        return 1;
+        return 3;
     }
 }
